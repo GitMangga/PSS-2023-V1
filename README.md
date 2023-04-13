@@ -1,8 +1,8 @@
 # pss-2023
-P1
 
+# P1
 Berisiskan terjemahan dari buku
-**Statistical COmputing With R**
+**Statistical Computing With R**
 
 Tab isi
 ## BAB 4
